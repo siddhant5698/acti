@@ -8,5 +8,4 @@ public class CreateCustomer {
  public void createCustomer(){
 	 Reporter.log("Creating Customer",true);
  }
- 
 }

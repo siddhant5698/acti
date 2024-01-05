@@ -5,5 +5,5 @@
     <classes>
       <class name="com.actitime.testscript.CreateCustomer"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite> 
